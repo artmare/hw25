@@ -1,0 +1,25 @@
+.circle{
+    width: 200px;
+    height: 200px;
+}
+
+.circle1{
+    background-color: red;
+    position: absolute;
+    right: 1000px;
+}
+
+.circle2{
+    background-color: blue;
+    position: absolute;
+    top: 150px;
+    left: 800px;
+    z-index: 3;
+}
+
+.circle3{
+    background-color: green;
+    position: absolute;
+    top: 280px;
+    left: 900px;
+}
